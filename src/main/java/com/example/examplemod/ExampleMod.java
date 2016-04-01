@@ -14,6 +14,6 @@ public class ExampleMod
     @EventHandler
     public void init(FMLInitializationEvent event)
     {
-        
+
     }
 }
